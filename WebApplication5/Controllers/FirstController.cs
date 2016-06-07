@@ -13,5 +13,10 @@ namespace WebApplication5.Controllers
         {
             return View();
         }
+
+        public ActionResult SecondView()
+        {
+            return View();
+        }
     }
 }
